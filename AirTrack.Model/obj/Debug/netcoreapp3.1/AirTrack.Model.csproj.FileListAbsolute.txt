@@ -1,0 +1,24 @@
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.deps.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.runtimeconfig.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.runtimeconfig.dev.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.AssemblyInfo.cs
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.genruntimeconfig.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.deps.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.runtimeconfig.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.runtimeconfig.dev.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\bin\Debug\netcoreapp3.1\AirTrack.Model.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.csprojAssemblyReference.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.AssemblyInfoInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.AssemblyInfo.cs
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Model\obj\Debug\netcoreapp3.1\AirTrack.Model.genruntimeconfig.cache

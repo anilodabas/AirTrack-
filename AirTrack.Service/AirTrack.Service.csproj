@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AirTrack.Core\AirTrack.Core.csproj" />
+    <ProjectReference Include="..\AirTrack.Entity\AirTrack.Entity.csproj" />
+    <ProjectReference Include="..\AirTrack.Model\AirTrack.Model.csproj" />
+    <ProjectReference Include="..\AirTrack.Repository\AirTrack.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,188 @@
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.exe
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.deps.json
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.runtimeconfig.json
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.runtimeconfig.dev.json
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\EntityFramework.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Humanizer.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Core.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Entity.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Model.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Repository.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Service.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Core.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Model.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Repository.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Service.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.AssemblyInfo.cs
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.csproj.CopyComplete
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\staticwebassets\AirTrack.StaticWebAssets.Manifest.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\staticwebassets\AirTrack.StaticWebAssets.xml
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.genruntimeconfig.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.csprojAssemblyReference.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.AssemblyInfoInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.AssemblyInfo.cs
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.exe
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.deps.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.runtimeconfig.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.runtimeconfig.dev.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Core.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Entity.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Model.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Repository.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Service.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Core.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Model.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Repository.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\bin\Debug\netcoreapp3.1\AirTrack.Service.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\staticwebassets\AirTrack.StaticWebAssets.Manifest.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\staticwebassets\AirTrack.StaticWebAssets.xml
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\scopedcss\bundle\AirTrack.styles.css
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.RazorTargetAssemblyInfo.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.csproj.CopyComplete
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.genruntimeconfig.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack\obj\Debug\netcoreapp3.1\AirTrack.MvcApplicationPartsAssemblyInfo.cs

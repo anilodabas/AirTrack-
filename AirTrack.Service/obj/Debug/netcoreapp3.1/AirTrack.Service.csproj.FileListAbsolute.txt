@@ -1,0 +1,42 @@
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Core.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Entity.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Model.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Repository.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Core.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Model.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Repository.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.AssemblyInfo.cs
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.deps.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.runtimeconfig.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.runtimeconfig.dev.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.csproj.CopyComplete
+\\Mac\Home\Desktop\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.genruntimeconfig.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.csprojAssemblyReference.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.AssemblyInfoInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.AssemblyInfo.cs
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.deps.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.runtimeconfig.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.runtimeconfig.dev.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Service.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Core.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Entity.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Model.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Repository.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Core.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Model.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\bin\Debug\netcoreapp3.1\AirTrack.Repository.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.csproj.CopyComplete
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Service\obj\Debug\netcoreapp3.1\AirTrack.Service.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.deps.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.runtimeconfig.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.runtimeconfig.dev.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Core.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Core.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.AssemblyInfo.cs
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.csproj.CopyComplete
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.genruntimeconfig.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.csprojAssemblyReference.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.AssemblyInfoInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.AssemblyInfo.cs
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.deps.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.runtimeconfig.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.runtimeconfig.dev.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Core.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\bin\Debug\netcoreapp3.1\AirTrack.Core.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.csproj.CopyComplete
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Entity\obj\Debug\netcoreapp3.1\AirTrack.Entity.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Core.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Entity.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Core.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.AssemblyInfo.cs
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.deps.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.runtimeconfig.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.runtimeconfig.dev.json
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.dll
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.csproj.CopyComplete
+\\Mac\Home\Desktop\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.genruntimeconfig.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.csprojAssemblyReference.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.AssemblyInfoInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.AssemblyInfo.cs
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.deps.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.runtimeconfig.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.runtimeconfig.dev.json
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Repository.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Core.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Entity.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Entity.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\bin\Debug\netcoreapp3.1\AirTrack.Core.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.csproj.CopyComplete
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.dll
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.pdb
+C:\Users\Anıl Odabaş\source\repos\AirTrack\AirTrack.Repository\obj\Debug\netcoreapp3.1\AirTrack.Repository.genruntimeconfig.cache
